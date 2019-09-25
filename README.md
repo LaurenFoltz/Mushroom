@@ -10,5 +10,5 @@ Naïve Bayes, Association Rule Mining, K-Means Clustering, Decision Tree, Suppor
 Determined that odor is the strongest predictor of whether a mushroom is poisonous or edible.
 
 Notes:
-In order to run the .R file, the csv file and corpus folders are needed.
+In order to run the .R file, the .csv file and corpus folders are needed.
 The .Rmd and .ipynb files have been provided as alternatives to the .R file, but are not required.
